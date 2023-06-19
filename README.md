@@ -1,4 +1,4 @@
-# Copied from gammasoft to our own repo to make it work incase if gammasoft deletes it
+# Copied from gammasoft to our own repo to make it work incase  gammasoft deletes it
 # Tags for Twitter Bootstrap 2.x
 
 bootstrap-tag is a javascript plugin that makes it easy to create simple, beautiful tag inputs with the help of [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
